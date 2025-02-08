@@ -14,7 +14,7 @@
 [22] [Sales Time Series Investigation](https://github.com/analyticsgym/sales_time_series_investigation)  
 [21] [AB Test Simulator](https://github.com/analyticsgym/ab_test_simulator)  
 [20] [Compound Interest Scenario Explorer](https://github.com/analyticsgym/compound_interest_scenario_explorer)  
-[19] [Baseball](https://github.com/analyticsgym/baseball)  
+[19] [Baseball](https://github.com/analyticsgym/baseball/blob/main/sf_giants_2021_regular_season_wins/README.md)  
 [18] [Association Rules Online Retail](https://github.com/analyticsgym/association_rules_online_retail)  
 [17] [Average vs Median](https://github.com/analyticsgym/average_vs_median)  
 [16] [US State Plots](https://github.com/analyticsgym/us_state_plots)  
